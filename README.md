@@ -14,9 +14,9 @@ Hoje tive a honra de liderar o Squad 2 no desenvolvimento do projeto **GoodPay**
 Gostaria de parabenizar os integrantes, Lenita, Graziela, Carlos, Rodrigo, e Beatriz pelo incrível desempenho e toda sinergia entre a equipe.  
   
 Para acessar o projeto completo acesse:  
-[Projeto completo](https://github.com/jose-almir/goodpay = 500px)
+[Projeto completo](https://github.com/jose-almir/goodpay)
 
-![tasks](https://github.com/cabralcaio/tasksGoodPay/blob/main/img/tasks.png?raw=true)
+![tasks](https://github.com/cabralcaio/tasksGoodPay/blob/main/img/tasks.png?raw=true = 500px)
   
 Today I had the honor of leading Squad 2 in developing the GoodPay Project. An incredible opportunity for teamwork that resulted in 4 tasks delivered, they are:  
   
