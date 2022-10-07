@@ -16,7 +16,7 @@ Gostaria de parabenizar os integrantes, Lenita, Graziela, Carlos, Rodrigo, e Bea
 Para acessar o projeto completo acesse:  
 [Projeto completo](https://github.com/jose-almir/goodpay)
 
-![tasks](https://github.com/cabralcaio/tasksGoodPay/blob/main/img/tasks.png?raw=true = 500px)
+![tasks](https://github.com/cabralcaio/tasksGoodPay/blob/main/img/tasks.png?raw=true =500px)
   
 Today I had the honor of leading Squad 2 in developing the GoodPay Project. An incredible opportunity for teamwork that resulted in 4 tasks delivered, they are:  
   
